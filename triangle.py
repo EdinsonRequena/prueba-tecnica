@@ -33,7 +33,7 @@ class Triangle:
         '''
         base = self.c
         height = self.b
-        area = (base*height) / 2
+        area = (base*altura) / 2
 
         print(area)
 
